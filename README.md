@@ -42,7 +42,7 @@ The insights from this report help AtliQ understand the sales behavior of key cu
 ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Customer%20net%20sales%20Report.png)
 
 
-[Download PDF](./path/to/your/file.pdf)
+[Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Customer%20Performance%20Report.pdf)
 
 
 3. *Market Performance vs Targets Report :-*
