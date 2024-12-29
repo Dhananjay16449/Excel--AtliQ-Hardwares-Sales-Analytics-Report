@@ -45,55 +45,73 @@ The insights from this report help AtliQ understand the sales behavior of key cu
     [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Customer%20Performance%20Report.pdf)
 
 
-3. *Market Performance vs Targets Report :-*
+2. *Market Performance vs Targets Report :-*
 This report compares Sales Targets versus Actual Performance for different countries in 2021.
 I calculated the difference between the actual sales and targets, along with the % of target achievement. The report can be filtered by  region, or division, providing insights
 into which markets met, exceeded, or missed their sales targets.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Market%20Performance%20vs%20Target.png)
 
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Market%20Performance%20VS%20Target.pdf)
 
-5. *Top 10 Products Report :-*
+3. *Top 10 Products Report :-*
 In this report, I identified the top 10 products based on the percentage increase in net sales from 2020 to 2021.
 This helps the company understand which products are performing well and which ones are driving revenue growth.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Top%2010%20Products.png)
 
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Sales_report.pdf)
 
-6. *Division-wise Sales Report :-*
+   
+4. *Division-wise Sales Report :-*
 This report breaks down the sales performance by division, showcasing net sales for 2020 and 2021 along with the growth percentage.
 It provides AtliQ with a clear picture of which divisions are driving growth and where there might be room for improvement.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Division%20Level%20Report.png)
 
-
-7. *Top 5 and Bottom 5 Products Report :-*
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Sales_report.pdf)
+      
+    
+5. *Top 5 and Bottom 5 Products Report :-*
 This report highlights the top 5 and bottom 5 products based on the quantity sold.
 This report helps identify high-demand products as well as those that are underperforming.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Top%20and%20Bottom%205%20products.png)
 
+   [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Sales_report.pdf)
 
-9. *Top 5 Countries Report :-*
+
+6. *Top 5 Countries Report :-*
 Here, I created a report showing the Top 5 countries in terms of net sales in 2021.
 This helps AtliQ understand which regions are the biggest contributors to their revenue and can drive market-specific strategies for growth.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/Top%205%20Countries.png)
 
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Sales_report.pdf)
+    
 
-11. *Fiscal Year and Monthly P/L Reports :-* These reports provide insights into the Gross Margin for different markets, customers, divisions, and regions across fiscal years and months.
+7. *Fiscal Year and Monthly P/L Reports :-* These reports provide insights into the Gross Margin for different markets, customers, divisions, and regions across fiscal years and months.
 This allows the company to understand its profitability trends and make data-backed decisions for cost management and investment.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/P%20%26%20L%20By%20Fiscal%20Month.png)
 
-12. *P/L Reports by Markets :-* This version of the P/L report provides a market-specific breakdown of the company’s financials, helping AtliQ understand performance at a granular level.
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/P%20%26%20L%20Yearly%20and%20monthly.pdf)
+    
+
+8. *P/L Reports by Markets :-* This version of the P/L report provides a market-specific breakdown of the company’s financials, helping AtliQ understand performance at a granular level.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/P%20%26%20L%20For%20Market.png)
 
-13. *% Gross Margins by Quarters (sub_zone) :-* I also created a report showcasing the % Gross Margins across different sub-zones by quarters. 
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/P%20%26%20L%20For%20Markets%20and%20Yearly%20GM%25.pdf)
+
+    
+
+9. *% Gross Margins by Quarters (sub_zone) :-* I also created a report showcasing the % Gross Margins across different sub-zones by quarters. 
 This helps to monitor financial health over time and across various regions or sub-zones.
 
     ![Alt text](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/Screenshots/GM%20%25%20by%20Quaters.png)
+
+    [Full Report](https://github.com/Dhananjay16449/Excel--AtliQ-Hardwares-Sales-Analytics-Report/blob/main/P%20%26%20L%20For%20Markets%20and%20Yearly%20GM%25.pdf)
 
 
 ## Key Insights and Learnings
